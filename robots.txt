@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://icuresto.github.io/a/sitemap.html
+Sitemap: https://icuresto.github.io/b/sitemap.html
+Sitemap: https://icuresto.github.io/c/sitemap.html
+Sitemap: https://icuresto.github.io/d/sitemap.html
